@@ -1,0 +1,14 @@
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\bin\Debug\netstandard2.0\DarkRiftTest.deps.json
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\bin\Debug\netstandard2.0\DarkRiftTest.dll
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\bin\Debug\netstandard2.0\DarkRiftTest.pdb
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\bin\Debug\netstandard2.0\DarkRift.dll
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\bin\Debug\netstandard2.0\DarkRift.Server.dll
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\bin\Debug\netstandard2.0\DarkRift.xml
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\bin\Debug\netstandard2.0\DarkRift.Server.xml
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\obj\Debug\netstandard2.0\DarkRiftTest.csprojAssemblyReference.cache
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\obj\Debug\netstandard2.0\DarkRiftTest.csproj.CoreCompileInputs.cache
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\obj\Debug\netstandard2.0\DarkRiftTest.AssemblyInfoInputs.cache
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\obj\Debug\netstandard2.0\DarkRiftTest.AssemblyInfo.cs
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\obj\Debug\netstandard2.0\DarkRiftTest.csproj.CopyComplete
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\obj\Debug\netstandard2.0\DarkRiftTest.dll
+D:\DarkRiftServer\DarkRiftTest\DarkRiftTest\obj\Debug\netstandard2.0\DarkRiftTest.pdb
